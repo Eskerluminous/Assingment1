@@ -1,0 +1,42 @@
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+#heading {
+    padding-top: 1%;
+}
+
+#color {
+    color: gray;
+}
+
+.tittle {
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.card-view {
+    background-color: gainsboro;
+    margin: 5px;
+}
+
+.card {
+    width: 25%;
+    /* margin: 20px; */
+    border: 10px;
+    border-radius: 6px;
+    box-shadow: 3px 3px 10px gray;
+    display: inline-block;
+    margin-left: 6%;
+    margin-bottom: 32px;
+    margin-top: 30px;
+    background-color: white;
+}
+
+.card:hover {
+    box-shadow: 0 7px 10px tomato;
+}
